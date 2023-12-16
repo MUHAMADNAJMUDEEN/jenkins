@@ -1,0 +1,24 @@
+jenkins
+	I have downloaded the jenkins war file.
+	I have created a dummy job in jenkins.
+Dummy
+	In dummy job I automated one java program.
+	Instead of running java program using command prompt I have given those 
+commands to the jenkins.
+	After adding file to the workspace, Its working as expected.
+
+Schedule
+	I scheduled the whole project to run every minute & thats 
+working as expected.
+
+building two projects
+ 	The project base is to build automation whenever the file 1 has 
+succesfully build. 
+	After the completion of first project build then dummy has to 
+be build.
+
+Github Automation
+	Installing git plugin in jenkins
+	git repository
+	
+	
